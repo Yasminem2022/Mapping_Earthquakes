@@ -4,6 +4,7 @@ The purpose of this project is to visually show the differences between the magn
 ---
 ## Results
 I created this map using three different styles:
+
 Dark-
 ![Dark](Dark.png)
 
